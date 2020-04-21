@@ -2,6 +2,9 @@ package com.navtech.SerializationPrograms.simple;
 
 import java.util.Scanner;
 
+import com.navtech.SerializationPrograms.services.DeserializationService;
+import com.navtech.SerializationPrograms.services.SerializationService;
+
 public class Simple {
 	
 	public static void processSimpleSerialization() {

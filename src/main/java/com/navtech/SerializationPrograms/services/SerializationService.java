@@ -1,4 +1,4 @@
-package com.navtech.SerializationPrograms.simple;
+package com.navtech.SerializationPrograms.services;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
