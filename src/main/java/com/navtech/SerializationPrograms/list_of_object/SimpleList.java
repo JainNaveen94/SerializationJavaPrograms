@@ -12,7 +12,7 @@ public class SimpleList {
 	public static void processSerialization() {
 
 		System.out.println(
-				"----------------------- :: Welcome to the Demo of Serialization of List of Object :: -----------------------");
+				"\n\n----------------------- :: Welcome to the Demo of Serialization of List of Object :: -----------------------\n\n");
 
 		// 1. Creating the List of Customer
 		List<Customer> customers = new ArrayList<Customer>();

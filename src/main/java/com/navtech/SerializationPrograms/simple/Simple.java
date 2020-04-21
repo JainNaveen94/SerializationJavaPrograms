@@ -15,7 +15,8 @@ public class Simple {
 		// Creating the Scanner Object for User's Input
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("************************:: Welcome To Serialization APP ::************************");
+		System.out.println(
+				"\n\n************************:: Welcome To Simple Serialization Demo ::************************\n\n");
 		
 		// Setting the Values in the Student Object
 		System.out.println("************************:: Enter the Student Object Details ::************************");
